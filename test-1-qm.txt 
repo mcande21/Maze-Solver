@@ -1,0 +1,8 @@
+0 5 5
+// This is a test function
+// Should provoke error message explaining Invalid input inside map
+@....
+..##.
+.^...
+.##..
+.#..?
